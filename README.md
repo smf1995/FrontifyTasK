@@ -1,4 +1,4 @@
-# Frontify Interview Task 😎🔧
+# Frontify Interview Task 🔧
 
 ## Prerequisites 📖  
 Have Node 18 installed -  https://nodejs.org/en
@@ -9,7 +9,7 @@ To get started, simply run:
 
 `npm i`
 
-## To Execute Tests 🎊🚀
+## To Execute Tests 🚀
 You have two options to execute all the tests:
 
  - **Headfull mode:**
